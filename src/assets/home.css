@@ -1,0 +1,14 @@
+.input-box, .show-box {
+  float: left;
+}
+.label-name-self {
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+}
+.show-box {
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  width: 100px;
+}
