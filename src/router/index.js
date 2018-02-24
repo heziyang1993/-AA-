@@ -10,7 +10,7 @@ class RouterMap extends Component {
     render() {
         return (
             <Router history={this.props.history}>
-                <Route path='/' component={Home}></Route>
+                <Route path='/home' component={Home}></Route>
                 <Route path='/second' component={Second}></Route>
             </Router>
         )
